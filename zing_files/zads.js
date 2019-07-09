@@ -1,0 +1,1 @@
+/*!version: 190619.1506 */ function loadAdtimaRender(){var a=document.getElementById("zadsbase");if(!a){a=document.createElement("script"),a.id="zadsbase",a.type="text/javascript",a.async=!0,a.src="//adtima-static.zadn.vn/resource/js/zad/adr.190619.1506.js";var b=document.getElementsByTagName("head")[0];b.insertBefore(a,b.firstChild)}}!function(){loadAdtimaRender()}();
